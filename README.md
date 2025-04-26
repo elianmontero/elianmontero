@@ -18,11 +18,9 @@
 
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">"Stress is part of programming."</h2></summary>
-  </ul>
-</div>
+ <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Stress+is+part+of+programming+" alt="Headline" />
+  </div>
 
 
 <!--Intro start-->
