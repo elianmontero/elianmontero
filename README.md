@@ -26,9 +26,9 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **PYTHON, MYSQL, PHP**
 
-- 🌱 I’m currently learning **I'm learning to program in Python and develop web applications..**
+- 🌱 I’m currently learning **I'm learning to program in Python and develop web applications**
 
-- ☁️ I have a keen interest in Backend and understanding how AI works using **Python**.
+- ☁️ I have a keen interest in Backend and understanding how AI works using **Python**
 
 - 💬 Ask me about **HTML, CSS, PHP, PYTHON**
 
