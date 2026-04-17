@@ -26,7 +26,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **PYTHON, MYSQL, PHP**
 
-- 🌱I’m currently delving into web application development using high-performance frameworks like FastAPI, focusing on efficiency and cloud deployment.
+- 🌱I’m currently delving into web application development using **high-performance frameworks like FastAPI**, focusing on efficiency and cloud deployment.
 
 - ☁️ I have a keen interest in Backend and understanding how AI works using **Python**
 
